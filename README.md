@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mukund-Jaiswar 21 year old.
-- 👀 My interest are in Frontend Engineering.
+- 👀 My interests are in Frontend Engineering.
 - 🌱 I have graduated in 2022 from Terna Engineering College with a degree in Computer Engg.
 - TECH STACK
 
